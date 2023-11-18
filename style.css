@@ -330,7 +330,7 @@ footer {
 
 @media only screen and (max-width: 760px) {
   section:nth-child(2) {
-    height: 210vh;
+    height: 220vh;
   }
 
   #navlinks {
